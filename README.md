@@ -1,3 +1,10 @@
+#Reading Notes
+###Thiese are the reading notes of Charles Bofferding
+
+#102 Course NOtes
+##3/22/2021
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Charles-Bofferding/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
