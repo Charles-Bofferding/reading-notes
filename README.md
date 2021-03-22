@@ -4,7 +4,7 @@
 
 # 102 Course Notes
 
-## 3/22/2021
+## 3/22/2021 102 Day 1
 
 *Growth Mindset*
 
