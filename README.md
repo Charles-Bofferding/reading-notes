@@ -1,7 +1,9 @@
 # Reading Notes
 
 ### These are the reading notes of Charles Bofferding 
-_Preffered Pronouns He/Him_
+###### _Preffered Pronouns He/Him_
+
+In both syntax and styling simplicity is the ultimate elegance. Which is to say I like simple themes.
 
 My Github profile can be found at 
 - [This Link](https://github.com/Charles-Bofferding)
