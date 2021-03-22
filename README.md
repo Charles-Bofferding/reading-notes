@@ -4,7 +4,7 @@
 _Preffered Pronouns He/Him_
 
 My Github profile can be found at 
-- [https://github.com/Charles-Bofferding] (This Link)
+- [This Link](https://github.com/Charles-Bofferding)
 
 # 102 Course Notes
 
@@ -18,4 +18,4 @@ A **Growth Mindset** is the mental state of being prepared to face challenges as
 
 - Markdown is presented as a simpler version of html
 - From the reading we were provided this link to a markdown style guide
-- [https://help.github.com/en/articles/basic-writing-and-formatting-syntax] (Markdown Syntax)
+-  [Markdown Syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
