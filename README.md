@@ -1,8 +1,7 @@
 # Reading Notes
 
 ### These are the reading notes of Charles Bofferding 
-
-__Preffered Pronouns He/Him__
+_Preffered Pronouns He/Him_
 
 My Github profile can be found at [https://github.com/Charles-Bofferding](This Link)
 
