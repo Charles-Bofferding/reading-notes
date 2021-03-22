@@ -1,4 +1,4 @@
-# **Reading Notes**
+# Reading Notes
 
 ### These are the reading notes of Charles Bofferding
 
@@ -8,7 +8,7 @@
 
 *Growth Mindset*
 
-A growth mindset is the mental state of being prepared to face challenges as learning opprotunities and see the potential for growth by accomplishing difficult tasks.
+A **Growth Mindset** is the mental state of being prepared to face challenges as learning opprotunities and see the potential for growth by accomplishing difficult tasks.
 
 *Markdown*
 
