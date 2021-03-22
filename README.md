@@ -2,7 +2,7 @@
 
 ###These are the reading notes of Charles Bofferding
 
-#102 Course NOtes
+#102 Course Notes
 
 ##3/22/2021
 
