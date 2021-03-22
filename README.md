@@ -1,4 +1,4 @@
-# Reading Notes
+# **Reading Notes**
 
 ### These are the reading notes of Charles Bofferding
 
@@ -15,32 +15,3 @@ A growth mindset is the mental state of being prepared to face challenges as lea
 - Markdown is presented as a simpler version of html
 - From the reading we were provided this link to a markdown style guide
 - [https://help.github.com/en/articles/basic-writing-and-formatting-syntax](Markdown Syntax)
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Charles-Bofferding/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
