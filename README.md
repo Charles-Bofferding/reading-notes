@@ -1,7 +1,9 @@
 #Reading Notes
-###Thiese are the reading notes of Charles Bofferding
+
+###These are the reading notes of Charles Bofferding
 
 #102 Course NOtes
+
 ##3/22/2021
 
 
