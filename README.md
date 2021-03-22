@@ -1,10 +1,10 @@
-#Reading Notes
+# Reading Notes
 
-###These are the reading notes of Charles Bofferding
+### These are the reading notes of Charles Bofferding
 
-#102 Course Notes
+# 102 Course Notes
 
-##3/22/2021
+## 3/22/2021
 
 *Growth Mindset*
 
