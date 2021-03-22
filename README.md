@@ -2,6 +2,8 @@
 
 ### These are the reading notes of Charles Bofferding
 
+My Github profile can be found at [https://github.com/Charles-Bofferding](This Link)
+
 # 102 Course Notes
 
 ## 3/22/2021 102 Day 1
