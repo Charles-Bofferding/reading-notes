@@ -3,7 +3,8 @@
 ### These are the reading notes of Charles Bofferding 
 _Preffered Pronouns He/Him_
 
-My Github profile can be found at [https://github.com/Charles-Bofferding](This Link)
+My Github profile can be found at 
+- [https://github.com/Charles-Bofferding](This Link)
 
 # 102 Course Notes
 
