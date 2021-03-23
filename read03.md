@@ -2,9 +2,9 @@
 
 ## 3/23/2021 102 Day X2
 
-*Github and Revision Control*
+# *Github and Revision Control*
 
-##VCS: Version Control System
+## VCS: Version Control System
 	- Allows developers to work on code at the same time
 	- Keeps a history of all commits sent to the system
 	- Helps keep all project files in one repository

@@ -2,7 +2,7 @@
 
 ## 3/22/2021 102 Day 1
 
-*Growth Mindset*
+# *Growth Mindset*
 
 A **Growth Mindset** is the mental state of being prepared to face challenges as learning opprotunities and see the potential for growth by accomplishing difficult tasks.
 
