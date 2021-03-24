@@ -20,5 +20,12 @@
 
 * *Navigation Bars* should be both simple to read, and un-clutured in design to ensure that there isn't a messy or confused presentation.
 
+## HTML Specific Design Elements
+* Body: The element containing all other parts of your webpage.
+* Header and Footers: items that will show up on the top and bottom of every page.
+* Navigation: Contains the main navigation elements of the webpage
+* Articles: elements that contain a section of the page that could stand alone
+* Asides: Used in an article it is an item that is related to the article but not directly related. If it is used outside of an article element it should be something relevant to all the other elements on the home page.
+* Figures: Refference images, make sure to caption and source them.
 
 [Go Back](README.md)
