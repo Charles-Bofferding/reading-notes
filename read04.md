@@ -29,3 +29,5 @@
 * Figures: Refference images, make sure to caption and source them.
 
 [Go Back](README.md)
+
+[Hard Link to this Full Live Page for Aliya](https://charles-bofferding.github.io/reading-notes/read04.html)

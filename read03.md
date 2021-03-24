@@ -19,3 +19,5 @@ The most important sequqnce when pushing back to the server is A C P. Below I ha
     - Perform the actual push to the server.
 
 [Go Back](README.md)
+
+[Hard Link to this Full Live Page for Aliya](https://charles-bofferding.github.io/reading-notes/read03.html)

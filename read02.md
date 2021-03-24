@@ -9,3 +9,5 @@
 -  [Markdown Syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
 [Go Back](README.md)
+
+[Hard Link to this Full Live Page for Aliya](https://charles-bofferding.github.io/reading-notes/read02.html)

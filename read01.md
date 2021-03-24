@@ -13,3 +13,5 @@ Ways to maintain a _Growth Mindset_
 3. Seek out problems that you don't have a solution already crafted for, and discover new solutions.
 
 [Go Back](README.md)
+
+[Hard Link to this Full Live Page for Aliya](https://charles-bofferding.github.io/reading-notes/read01.html)
