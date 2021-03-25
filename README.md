@@ -17,3 +17,4 @@ My Github profile can be found at
 - [Reading 6A: Dynamic web pages with JavaScript](read06a.md)
 - [Reading 6B: How Computers Work](read06b.md)
 - [Reading 7: Programming with JavaScript](read07.md)
+- [Reading 8: Operators and Loops](read08.md)
