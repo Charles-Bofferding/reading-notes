@@ -14,3 +14,5 @@ My Github profile can be found at
 - [Reading 3: Github and Revision Control](read03.md)
 - [Reading 4: Structuring Webpages with HTML](read04.md)
 - [Reading 5: CSS and Color](read05.md)
+- [Reading 6A: Dynamic web pages with JavaScript](read06a.md)
+- [Reading 6B: How Computers Work](read06b.md)
