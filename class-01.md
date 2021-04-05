@@ -6,7 +6,7 @@
 
 **HTML Structure**
 
-    HTML helps define the backbone structure of your webpage. There are several sections with different purposes, but the first thing to understand is that each section is opened with a tag that looks like <X> and closed with a tag </X>, with x being the indicator for what type of section you are in. Further attributes can be added into the tags to add further definition or variables.
+HTML helps define the backbone structure of your webpage. There are several sections with different purposes. Further attributes can be added into the tags to add further definition or variables.
 
 1. Body: Defines the whole section which will be displayed in the main browser window.
 2. Head: Contains onformation about the page, but not displayed in the main page itself
