@@ -8,7 +8,10 @@ In both syntax and styling simplicity is the ultimate elegance. Which is to say 
 My Github profile can be found at 
 - [This Link](https://github.com/Charles-Bofferding)
 
-## Table of Contents
+## Table of Contents for Code Fellows 201
+- [Class 01 Reading: Intro to HTML and JS](class-01.md)
+
+## Table of Contents for Code Fellows 102
 - [Reading 1: Growth Mindset](read01.md)
 - [Reading 2: Markdown Basics](read02.md)
 - [Reading 3: Github and Revision Control](read03.md)

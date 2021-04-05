@@ -1,6 +1,6 @@
-# 102 Course Notes
+# 201 Course Notes
 
-## 3/XX/2021 102 Day X
+## 4/XX/2021 201 Day X
 
 # *Topic*
 
