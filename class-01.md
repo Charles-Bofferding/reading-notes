@@ -34,4 +34,4 @@ Method: Perform a task with the current status of your site loaded into the brow
 
 [Go Back](README.md)
 
-[Hard Link to this Full Live Page for Aliya](https://charles-bofferding.github.io/reading-notes/class-01.html)
+[Hard Link to this Full Live Page](https://charles-bofferding.github.io/reading-notes/class-01.html)

@@ -13,4 +13,4 @@ The **The Topic** is blah blah blah
 
 [Go Back](README.md)
 
-[Hard Link to this Full Live Page for Aliya](https://charles-bofferding.github.io/reading-notes/read0X.html)
+[Hard Link to this Full Live Page](https://charles-bofferding.github.io/reading-notes/read0X.html)
