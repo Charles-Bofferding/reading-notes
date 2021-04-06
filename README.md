@@ -10,6 +10,7 @@ My Github profile can be found at
 
 ## Table of Contents for Code Fellows 201
 - [Class 01 Reading: Intro to HTML and JS](class-01.md)
+- [Class 02 Reading: Basics of HTML. CSS & JS](class-02.md)
 
 ## Table of Contents for Code Fellows 102
 - [Reading 1: Growth Mindset](read01.md)
