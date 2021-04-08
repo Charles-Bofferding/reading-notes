@@ -12,6 +12,7 @@ My Github profile can be found at
 - [Class 01 Reading: Intro to HTML and JS](class-01.md)
 - [Class 02 Reading: Basics of HTML. CSS & JS](class-02.md)
 - [Class 03 Reading: HTML Lists, JS Control Flow, and CSS Model Box](class-03.md)
+- [Class 04: HTML Links, JS Functions, and CSS Layout](class-04.md)
 
 ## Table of Contents for Code Fellows 102
 - [Reading 1: Growth Mindset](read01.md)
