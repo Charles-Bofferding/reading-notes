@@ -31,14 +31,6 @@
 - There are like a lot of problems if trying to make this for older browsers.
 - Events handlers can be on multiple elements in a page, by default the browser will search for more specific elements rather than parents but this can be reversed.
 
-
-
-
-
-1. This is a list
-1. list
-1. list
-
 [Go Back](README.md)
 
 [Hard Link to this Full Live Page](https://charles-bofferding.github.io/reading-notes/read0X.html)

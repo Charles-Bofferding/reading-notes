@@ -18,6 +18,7 @@ My Github profile can be found at
 - [Class 07: Object Oriented Programming & HTML Tables](class-07.md)
 - [Class 08: CSS Layout](class-08.md)
 - [Class 09: Forms and JS Events](class-09.md)
+- [Class 10: Error Handling & Debugging](class-10.md)
 
 ## Table of Contents for Code Fellows 102
 - [Reading 1: Growth Mindset](read01.md)
