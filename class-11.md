@@ -21,4 +21,4 @@
 
 [Go Back](README.md)
 
-[Hard Link to this Full Live Page](https://charles-bofferding.github.io/reading-notes/read0X.html)
+[Hard Link to this Full Live Page](https://charles-bofferding.github.io/reading-notes/class-11.html)
