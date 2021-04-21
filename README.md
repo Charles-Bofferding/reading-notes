@@ -21,6 +21,7 @@ My Github profile can be found at
 - [Class 10: Error Handling & Debugging](class-10.md)
 - [Class 11: Images and Practical Information](class-11.md)
 - [Class 12: HTML canvas and JS Chart](class-12.md)
+- [Class 13: Local Storage](class-13.md)
 
 ## Table of Contents for Code Fellows 102
 - [Reading 1: Growth Mindset](read01.md)
