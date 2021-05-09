@@ -8,7 +8,11 @@ In both syntax and styling simplicity is the ultimate elegance. Which is to say 
 My Github profile can be found at 
 - [This Link](https://github.com/Charles-Bofferding)
 
-## Table of Contents for Code Fellows 201
+## Table of COntents for Code 401 - Advanced Software Development
+
+## Table of Contents for Code 301 - Intermediate Software Development
+
+## Table of Contents for Code 201 - Foundations of Software Development
 - [Class 01 Reading: Intro to HTML and JS](class-01.md)
 - [Class 02 Reading: Basics of HTML. CSS & JS](class-02.md)
 - [Class 03 Reading: HTML Lists, JS Control Flow, and CSS Model Box](class-03.md)
@@ -22,8 +26,11 @@ My Github profile can be found at
 - [Class 11: Images and Practical Information](class-11.md)
 - [Class 12: HTML canvas and JS Chart](class-12.md)
 - [Class 13: Local Storage](class-13.md)
+- [Class 14a: CSS Transforms, Transitions, and Animations](class-14a.md)
+- [Class 14b: What Google Learned About Teams](class-14b.md)
 
-## Table of Contents for Code Fellows 102
+
+## Table of Contents for Code 102 - Intro to Software Development
 - [Reading 1: Growth Mindset](read01.md)
 - [Reading 2: Markdown Basics](read02.md)
 - [Reading 3: Github and Revision Control](read03.md)
