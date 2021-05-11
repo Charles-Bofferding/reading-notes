@@ -11,6 +11,9 @@ My Github profile can be found at
 ## Table of COntents for Code 401 - Advanced Software Development
 
 ## Table of Contents for Code 301 - Intermediate Software Development
+- [Class 01: Introduction to React and Components](301-01.md)
+- [Class 02: React Component Lifecycle](301-02.md)
+
 
 ## Table of Contents for Code 201 - Foundations of Software Development
 - [Class 01 Reading: Intro to HTML and JS](class-01.md)
