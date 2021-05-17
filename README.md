@@ -14,6 +14,7 @@ My Github profile can be found at
 - [Class 01: Introduction to React and Components](301-01.md)
 - [Class 02: React Component Lifecycle](301-02.md)
 - [Class 03: Passing Functions as Props](301-03.md)
+- [Class 06: NODE.JS](301-06.md)
 
 ## Table of Contents for Code 201 - Foundations of Software Development
 - [Class 01 Reading: Intro to HTML and JS](class-01.md)
