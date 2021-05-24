@@ -17,6 +17,8 @@ My Github profile can be found at
 - [Class 06: NODE.JS](301-06.md)
 - [Class 07: REST](301-07.md)
 - [Class 08: API Best Practices](301-08.md)
+- [Class 09: Functional Programming](301-08.md)
+- [Class 11: Authentication](301-11.md)
 
 ## Table of Contents for Code 201 - Foundations of Software Development
 - [Class 01 Reading: Intro to HTML and JS](class-01.md)
