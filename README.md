@@ -20,6 +20,8 @@ My Github profile can be found at
 - [Class 09: Functional Programming](301-08.md)
 - [Class 11: Authentication](301-11.md)
 - [Class 12: Mongo and Mongoose](301-12.md)
+- [Class 13: CRUD](301-13.md)
+- [Class 14: Diversity and Inclusion in Tech](301-14.md)
 
 ## Table of Contents for Code 201 - Foundations of Software Development
 - [Class 01 Reading: Intro to HTML and JS](class-01.md)
